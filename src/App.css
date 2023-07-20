@@ -1,0 +1,53 @@
+@import url("fonts/stylesheet.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 88%;
+  text-transform: uppercase;
+  font-family: "Serial A Output", sans-serif;
+}
+
+.wrapper {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100vw;
+  height: 200vh;
+  overflow-x: hidden;
+}
+
+.section {
+  transform-origin: center;
+  border-radius: 100%;
+  left: 50%;
+  margin-left: 4.1666666667vw;
+  overflow: hidden;
+  position: absolute;
+  top: 4.746vw;
+  z-index: 1;
+}
+
+.text-main {
+  margin-inline: auto;
+  margin-bottom: 6.1111111111vw;
+  text-align: center;
+  width: 67.2222222222vw;
+  font-size: 6.2222222222vw;
+}
+
+.text {
+  font-size: 6.2222222222vw;
+  bottom: 50%;
+  margin-bottom: 12.2916666667vw;
+  margin-right: -5.4166666667vw;
+  position: absolute;
+  right: 50%;
+  text-align: center;
+  width: 67.2222222222vw;
+}
+
+img {
+  width: 48.125vw;
+}

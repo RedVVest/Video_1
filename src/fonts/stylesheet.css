@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Serial A Input';
+    src: url('SerialA-Input.eot');
+    src: local('Serial A Input'), local('SerialA-Input'),
+        url('SerialA-Input.eot?#iefix') format('embedded-opentype'),
+        url('SerialA-Input.woff2') format('woff2'),
+        url('SerialA-Input.woff') format('woff'),
+        url('SerialA-Input.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Serial A Output';
+    src: url('SerialA-Output.eot');
+    src: local('Serial A Output'), local('SerialA-Output'),
+        url('SerialA-Output.eot?#iefix') format('embedded-opentype'),
+        url('SerialA-Output.woff2') format('woff2'),
+        url('SerialA-Output.woff') format('woff'),
+        url('SerialA-Output.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
