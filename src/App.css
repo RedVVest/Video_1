@@ -6,6 +6,7 @@
   line-height: 88%;
   text-transform: uppercase;
   font-family: "Serial A Output", sans-serif;
+  user-select: none;
 }
 
 .wrapper {
